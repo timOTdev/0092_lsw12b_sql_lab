@@ -1,4 +1,6 @@
-# SQL Exercises
+# 0092_lsw12b_sql_lab
+
+## SQL Exercises
 
 ## Topics
 
